@@ -96,4 +96,11 @@ js/
 ## 🌐 Acesse o Projeto Online
 
 GitHub Pages:
+
 https://github.com/walteralexandre77-bot/zen-food-spa
+
+---
+
+## 👨‍💻 Autor
+
+Projeto desenvolvido como prática de Front-End para construção de páginas institucionais SPA responsivas.
